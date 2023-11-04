@@ -1,0 +1,9 @@
+const resultDiv = document.getElementById("mainDiv");
+resultDiv.style.color ="blue";
+resultDiv.style.backgroundColor = "yellow";
+resultDiv.style.margin ="20px";
+resultDiv.style.padding ="10px";
+resultDiv.style.fontSize="18px";
+resultDiv.style.fontWeight="bold";
+resultDiv.style.height ="200px";
+resultDiv.style.width ="300px";
