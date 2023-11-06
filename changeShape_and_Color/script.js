@@ -24,7 +24,6 @@ const colors = [
 
 changeColor.addEventListener("click", (e) => {
   const indx = Math.floor(Math.random() * colors.length);
-  // console.log(colors[indx]);
   container.style.backgroundColor = colors[indx];
 });
 
@@ -41,10 +40,8 @@ const shapes = [
 ];
 
 changeShape.addEventListener("click", (e) => {
-  // remove all shapes class from div
   shapeBox.classList = "";
 
   const randomShape = shapes[Math.floor(Math.random() * shapes.length)];
-  // console.log(randomShape);
   shapeBox.classList.add(randomShape);
 });
