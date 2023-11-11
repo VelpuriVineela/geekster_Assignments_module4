@@ -55,4 +55,4 @@ A simple web page demonstrating a table with a search filter for filtering data 
 | `searchResult.addEventListener('keyup', (e) => { ... })` | Adds a keyup event listener to the search input for real-time filtering. |
 | Inside the event listener                   | Filters the table data based on user input and updates the table dynamically. |
 
-- Hosted Link: 
+- Hosted Link: https://velpurivineela.github.io/geekster_Assignments_module4/filter_search_the_table/index.html
