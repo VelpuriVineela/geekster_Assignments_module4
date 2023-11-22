@@ -10,7 +10,7 @@ body {
   background-color: #fff;
   height: 100vh;
   transition: background 0.2s linear;
-  font-family: "Montserrat", sans-serif;
+  font-family:  sans-serif, "Montserrat";
   scroll-behavior: smooth;
 }
 
